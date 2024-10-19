@@ -1,0 +1,16 @@
+﻿Progress Report: Ben Fraser and Riley Thomas
+
+
+Current Progress: So far, we have been trying to improve our model by utilizing Chat GPT AI to do sentiment analysis. We have been doing some trial and error to find out the best input for our AI models to accurately categorize our houses into 3 different categories. 1 = cheap homes, approximately less than 600,000 dollars. Next, our 2 = mid-price homes is approximately 600,000 to 1,200,000 dollars. And anything over 1,200,000 dollars should be in the 3 category.
+
+
+What we're working on: We are currently working on adjusting our Chat GPT AI script to produce the best output.
+
+
+Challenges we're facing: Our initial challenges were trying to only utilize description to guess the price range. At first, many cheap homes were getting put in the 3 category. This was because the description of the cheap home was trying to overcompensate for the home by using big and impressive words to sell the house.
+
+
+Short-term goals: Have more accurate scores on our Chat GPT AI analysis. This will be analyzed through data visualization.
+
+
+Contingency plan: If we cannot get the Chat GPT AI advance analysis to work, then we are going to use other features like Crime Rate, Shopping centers, etc to improve our models.
